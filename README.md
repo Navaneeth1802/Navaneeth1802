@@ -12,11 +12,11 @@
 
 - 🤝 I’m looking for help with **Data Analysis**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Navaneeth1802](https://github.com/Navaneeth1802)
+- 👨‍💻 All of my projects are available at [https://github.com/Navaneeth1802](https://github.com/Navaneeth1802?tab=repositories)
 
 - 📫 How to reach me **navaneethrajeev@gmail.com**
 
-- 📄 Know about my experiences [Navaneeth R](https://drive.google.com/file/d/1rg_kpFsAf5UGfuhIaC8h_yLOCKVPqSnt/view?usp=sharing)
+- 📄 See my Resume here [Navaneeth R](https://drive.google.com/file/d/1rg_kpFsAf5UGfuhIaC8h_yLOCKVPqSnt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
