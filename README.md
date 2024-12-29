@@ -1,3 +1,4 @@
+![](https://github.com/Navaneeth1802/Navaneeth1802/blob/main/Untitled%20design.png)
 <h1 align="center">Hi 👋, I'm Navaneeth R</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
