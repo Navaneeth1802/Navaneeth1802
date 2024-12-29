@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **navaneethrajeev@gmail.com**
 
-- 📄 Know about my experiences [NavaneethR.pdf](NavaneethR.pdf)
+- 📄 Know about my experiences [Navaneeth R](https://drive.google.com/file/d/1rg_kpFsAf5UGfuhIaC8h_yLOCKVPqSnt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
