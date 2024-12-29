@@ -21,11 +21,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/navaneethr" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navaneethr" height="30" width="40" /></a>
-<a href="https://kaggle.com/navaneeth" target="blank">
+<a href="https://kaggle.com/navaneeth1803" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="navaneeth" height="30" width="40" /></a>
 <a href="https://instagram.com/navaneeth__r2" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navaneeth__r2" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/navaneethrajeev" target="blank">
+<a href="https://www.hackerrank.com/navaneethrajeev1" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="navaneethrajeev" height="30" width="40" /></a>
 </p>
 
